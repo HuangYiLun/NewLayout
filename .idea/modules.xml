@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SOHO.iml" filepath="$PROJECT_DIR$/SOHO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SOHO2.iml" filepath="$PROJECT_DIR$/SOHO2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SOHOa.iml" filepath="$PROJECT_DIR$/SOHOa.iml" />
+      <module fileurl="file://C:\Users\luping\Desktop\IMO\SOHO\SOHO2.iml" filepath="C:\Users\luping\Desktop\IMO\SOHO\SOHO2.iml" />
+      <module fileurl="file://C:\Users\luping\Desktop\IMO\SOHO\SOHOa.iml" filepath="C:\Users\luping\Desktop\IMO\SOHO\SOHOa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

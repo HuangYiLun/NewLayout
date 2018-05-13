@@ -19,6 +19,7 @@
                 android:id="@+id/case_name_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="2dp"
                 android:text="案件名稱"
                 android:textSize="20sp"
                 android:textStyle="bold"
@@ -27,10 +28,10 @@
                 android:id="@+id/case_content_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="2dp"
+                android:layout_margin="1dp"
                 android:text="內容: "
-                android:textSize="18sp"
                 android:layout_below="@+id/case_name_id"
+                android:textSize="15sp"
                 />
 
             <TextView
@@ -41,14 +42,14 @@
                 android:layout_marginStart="5dp"
                 android:layout_toEndOf="@+id/case_content_id"
                 android:text="內容"
-                android:textSize="15sp" />
+                android:textSize="12sp" />
             <TextView
                 android:id="@+id/case_pay_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:text="接案預算: "
-                android:textSize="18sp"
+                android:textSize="15sp"
                 android:layout_below="@id/case_content_id"
                 />
 
@@ -61,7 +62,7 @@
             android:layout_toEndOf="@+id/case_pay_id"
             android:layout_margin="2dp"
             android:text="預算"
-            android:textSize="15sp" />
+            android:textSize="12sp" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -82,7 +83,7 @@
                 android:layout_toEndOf="@+id/case_pay_min"
                 android:layout_marginStart="15dp"
                 android:text="預算"
-                android:textSize="15sp" />
+                android:textSize="12sp" />
 
             <TextView
                 android:id="@+id/case_date_id"
@@ -90,7 +91,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:text="發布時間: "
-                android:textSize="18sp"
+                android:textSize="15sp"
                 android:layout_below="@id/case_pay_id"
                 />
 
@@ -102,14 +103,14 @@
                 android:layout_toEndOf="@+id/case_date_id"
                 android:layout_marginStart="4dp"
                 android:text="日期"
-                android:textSize="15sp" />
+                android:textSize="12sp" />
             <TextView
                 android:id="@+id/case_skill_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:text="所需技能: "
-                android:textSize="18sp"
+                android:textSize="15sp"
                 android:layout_below="@id/case_date"
                 />
 
@@ -122,7 +123,7 @@
                 android:layout_toEndOf="@+id/case_skill_id"
                 android:layout_marginStart="4dp"
                 android:text="所需技能"
-                android:textSize="15sp" />
+                android:textSize="12sp" />
 
             <TextView
                 android:id="@+id/case_location"

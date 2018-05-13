@@ -36,12 +36,31 @@
     <string name="add_case_title">新增案件</string>
     <string name="msg_NoCases">無任何案子</string>
     <string name="msg_NoNetwork">未連結到網路</string>
+    <string name="msg_server_not_available">連接伺服器失敗</string>
     <string name="msg_InsertFail">新增失敗</string>
     <string name="msg_InsertSuccess">新增成功</string>
     <string name="case_detail">案件說明</string>
     <string name="msg_NoMember">無任何會員</string>
     <string name="確認密碼">確認密碼</string>
     <string name="add_album_title">作品集</string>
+    <string name="img_detail_name">圖片名稱 : </string>
+    <string name="img_detail_upload">上傳時間 : </string>
+    <string name="img_detail_edit">修改時間 : </string>
+    <string name="img_detail_des">介紹 : </string>
+    <string name="upload">上傳</string>
+    <string name="overview">總覽</string>
+    <string name="upload_date">上傳時間 : </string>
+    <string name="last_edit">修改於 : </string>
+    <string name="no_camera_app">相機無法使用</string>
+    <string name="confirm_upload">確認上傳</string>
+    <string name="text_Yes">確認</string>
+    <string name="text_No">取消</string>
+    <string name="img_info">相片訊息</string>
+    <string name="confirm_delete_title">確認刪除 ? </string>
+    <string name="confirm_delete_msg">此操作無法復原 </string>
+    <string name="edit_title">編輯圖片資訊 </string>
+    <string name="edit_msg">輸入圖片名稱與描述</string>
+
 
     <string-array name="city">
         <item>臺北市</item>
